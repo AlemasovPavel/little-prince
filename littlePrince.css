@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(237, 231, 179);
+}
+
+h1 {
+    font-size: 20px;
+    color: #eb3e3e;
+    text-align: center;
+}
+
+h2 {
+    color: #eb3e3e;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid;
+    color: rgb(0, 0, 0);
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.i {
+    font-style: italic;
+}
